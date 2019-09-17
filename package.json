@@ -1,0 +1,7 @@
+{
+  "name": "bpkg-decode-base64",
+  "version": "0.0.1",
+  "description": "Add a custom message here about your decode-base64",
+  "scripts": [ "bpkg-decode-base64.sh" ],
+  "install": "make install"
+}
